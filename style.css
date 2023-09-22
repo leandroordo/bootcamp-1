@@ -1,0 +1,26 @@
+h1,
+h2,
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+aside {
+  width: 1200px;
+}
+
+#content,
+.d-flex {
+  display: flex;
+}
+
+.back-color-aliceblue {
+  background-color: aliceblue;
+}
+
+.back-color-antiquewhite {
+  background-color: antiquewhite;
+}
+
+.back-color-beige {
+  background-color: beige;
+}
