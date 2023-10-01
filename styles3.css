@@ -1,0 +1,47 @@
+body {
+  font-family: "League Spartan";
+}
+
+nav {
+  align-items: center;
+  background-color: aliceblue;
+  display: flex;
+  padding: 20px;
+}
+
+.companyName {
+  color: #5d52ba;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 44px;
+  text-wrap: nowrap;
+}
+
+.logo {
+  margin-right: 15px;
+}
+
+.logo-image {
+  width: 100px;
+}
+
+.menu ul {
+  display: flex;
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.menu ul li {
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.slogan {
+  color: #f65129;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: start;
+  text-transform: uppercase;
+}
